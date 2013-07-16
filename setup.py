@@ -8,7 +8,7 @@ setup(
     version=VERSION,
     packages=['gdiff', 
               ],
-    description='google diff match library.'
+    description='google diff match library.',
     long_description=long_description,
     author='neil fraser @ google',
     author_email='neil.fraser@gmail.com',
